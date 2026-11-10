@@ -1,0 +1,10 @@
+build/
+dist/
+__pycache__/
+_plugin-audit/
+records/
+*.bak
+app.log
+region_list.json
+trigger_rules.json
+yolo_config.json
