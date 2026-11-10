@@ -1,4 +1,4 @@
-# 机器操控工具箱（MachineControl）
+# 键鼠操控工具箱（MachineControl）
 
 Windows 桌面自动化合集，四个工具收进一个托盘面板：
 
